@@ -74,19 +74,14 @@ module.exports = script = async (client, m, chatUpdate, store) => {
         case "help":
         case "menu":
           m.reply(`*Whatsapp Bot OpenAI*
-            🔊Alex by Professor
+            by HM
           📌Commands 
           1. /ai
           2. /img 
 *(KnightGPT)*
 Cmd: ${prefix}ai 
 🔎For Searching anything.
-✅Join https://t.me/chatgpt04 \n
-✅subscribe us - https://youtu.be/G5qegT7bVAs\n
-✅JOIN - https://chat.whatsapp.com/DFWO2OXkmgu2bxnEVpLvuj \n
-✅Telegram - https://t.me/mr_unique_hacker
-⚠NOTE - To use Bot make sure you have joined all the above groups\n else it will leave the chat!!
-*(DALL-E)*
+✅Follow https://Github.com/HMeer \n
 Cmd: ${prefix}img
 to generate ai image`)
           break;
