@@ -4,7 +4,7 @@ const util = require("util");
 const chalk = require("chalk");
 const { Configuration, OpenAIApi } = require("openai");
 let setting = require("./key.json")
-const BOT_NAME = process.env.BOT_NAME ?? "KnightGPT";
+const BOT_NAME = process.env.BOT_NAME ?? "HM GPT";
 
 module.exports = script = async (client, m, chatUpdate, store) => {
   try {
